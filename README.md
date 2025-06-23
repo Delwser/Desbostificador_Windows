@@ -5,12 +5,15 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 ## O que ele faz no meu pc?
  1 - Desativa Serviços e mata os processos deles: 
+ 
      Ele vai tirar os serviços e processos inuteis do windows.
 
  2 - Boost temporario:
+ 
      Ele desabilita alguns serviços não essenciais que acabam dando perda de fps no seu computador!
     
  3 - Matar processos pesados:
+ 
      Ele procura por processos pesados e finaliza eles para você, relaxa ele não mata o seu discord.
 
 
@@ -21,7 +24,7 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 ## Como usar:
 
-**Via powershell**
+**Via powershell:**
 
 git clone https://github.com/Delwser/Optimizer_Windows/
 
