@@ -10,7 +10,7 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
  **2 - Boost temporario:**
  
-   Ele desabilita alguns serviços não essenciais que acabam dando perda de fps no seu computador!
+   Ele desabilita alguns processos não essenciais que acabam dando perda de fps no seu computador!
     
  **3 - Matar processos pesados:**
  
