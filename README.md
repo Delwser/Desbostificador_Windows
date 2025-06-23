@@ -5,13 +5,13 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 ## O que ele faz no meu pc?
  1 - Desativar Processos e matar serviços: 
- Ele vai tirar os processos inuteis do windows.
+     Ele vai tirar os processos inuteis do windows.
 
  2 - Boost temporario:
-Ele desabilita alguns serviços não essenciais que acabam dando perda de fps no seu computador!
+     Ele desabilita alguns serviços não essenciais que acabam dando perda de fps no seu computador!
     
  3 - Matar processos pesados:
-ele procura por processos pesados e finaliza eles para você, relaxa ele não mata o seu discord.
+     Ele procura por processos pesados e finaliza eles para você, relaxa ele não mata o seu discord.
 
 
 ## Função para reativar processos:    
