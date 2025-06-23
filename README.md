@@ -21,7 +21,7 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 ## Como usar:
 
-Via powershell:
+**Via powershell**
 git clone https://github.com/Delwser/Optimizer_Windows/
 pip install -r requiriments.txt
 python.exe main.py
