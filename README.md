@@ -25,9 +25,9 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 ## Como usar:
 
-**Via powershell:**
+**Via terminal:**
 
-    git clone https://github.com/Delwser/Optimizer_Windows/
+    git clone https://github.com/Delwser/Desbostificador_Windows/
 
     pip install -r requiriments.txt
 
