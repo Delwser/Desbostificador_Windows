@@ -27,11 +27,13 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 **Via powershell:**
 
-git clone https://github.com/Delwser/Optimizer_Windows/
+    git clone https://github.com/Delwser/Optimizer_Windows/
 
-pip install -r requiriments.txt
+    pip install -r requiriments.txt
 
-python.exe main.py
+    python.exe main.py
 
-Download PE:
+
+
+**Download PE:**
 
