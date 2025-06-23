@@ -18,7 +18,7 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 
 ## Função para reativar processos:    
- Reativar processos:
+ **Reativar processos:**
 
  Usar quando terminar de jogar, para voltar o sistema para o modo de uso cotidiano.
 
