@@ -4,8 +4,8 @@ O Optimizer_Windows é um otimizador criado com a intenção de melhorar o fps e
 Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a otimização
 
 ## O que ele faz no meu pc?
- 1 - Desativar Processos e matar serviços: 
-     Ele vai tirar os processos inuteis do windows.
+ 1 - Desativa Serviços e mata os processos deles: 
+     Ele vai tirar os serviços e processos inuteis do windows.
 
  2 - Boost temporario:
      Ele desabilita alguns serviços não essenciais que acabam dando perda de fps no seu computador!
@@ -23,4 +23,8 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 Via powershell:
 git clone https://github.com/Delwser/Optimizer_Windows/
+pip install -r requiriments.txt
+python.exe main.py
+
+Download PE:
 
