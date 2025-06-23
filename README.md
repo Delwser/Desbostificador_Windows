@@ -1,4 +1,4 @@
-# Desbostificador_Windows
+# Otimizador
 
 O Optimizer_Windows é um otimizador criado com a intenção de melhorar o fps e jogabilidade nos seus games, de forma mais rapida.
 Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a otimização
