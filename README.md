@@ -27,7 +27,7 @@ Sem precisar ficar selecionando varias caixinhas, apenas otimizando, e tirando a
 
 **Via terminal:**
 
-    git clone https://github.com/Delwser/Desbostificador_Windows/
+    git clone https://github.com/Delwser/Otimizador/
 
     pip install -r requiriments.txt
 
